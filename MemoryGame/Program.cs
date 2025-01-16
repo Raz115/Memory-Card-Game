@@ -902,6 +902,14 @@ namespace PASS1_Memory
                         //WriteStats();
                         //ReadStats();
                         //DrawStatsScreen();
+                        Console.Clear();
+                        Console.BackgroundColor = ConsoleColor.Black;
+                        Console.ForegroundColor = ConsoleColor.DarkGreen;
+                        Console.WriteLine("Statistics are currently under development");
+                        Console.ResetColor();
+                        Console.Write("Click enter to return to main menu:");
+                        Console.ReadLine();
+                        gameState = MENU;
                         break;
 
                     case EXIT:
