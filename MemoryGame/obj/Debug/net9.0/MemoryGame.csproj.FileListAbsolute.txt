@@ -1,0 +1,14 @@
+c:\Users\Zainab\ToGitHub\MemoryGame\bin\Debug\net9.0\MemoryGame.exe
+C:\Users\Zainab\ToGitHub\MemoryGame\bin\Debug\net9.0\MemoryGame.deps.json
+C:\Users\Zainab\ToGitHub\MemoryGame\bin\Debug\net9.0\MemoryGame.runtimeconfig.json
+c:\Users\Zainab\ToGitHub\MemoryGame\bin\Debug\net9.0\MemoryGame.dll
+c:\Users\Zainab\ToGitHub\MemoryGame\bin\Debug\net9.0\MemoryGame.pdb
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.AssemblyInfoInputs.cache
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.AssemblyInfo.cs
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.csproj.CoreCompileInputs.cache
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.dll
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\refint\MemoryGame.dll
+c:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.pdb
+C:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\MemoryGame.genruntimeconfig.cache
+C:\Users\Zainab\ToGitHub\MemoryGame\obj\Debug\net9.0\ref\MemoryGame.dll
